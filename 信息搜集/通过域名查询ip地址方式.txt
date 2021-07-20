@@ -1,0 +1,7 @@
+	通过域名查询ip地址方式
+	参考连接 https://www.webshell.cc/7128.html
+	nslookup 域名
+	http://fofa.so/
+	https://www.ipip.net/ip.html 
+	f12 审查元素 通过网路部分的数据可能会显示ip地址、网站的指纹信息(架构类型、waf类型)
+	ping 域名 (服务器禁ping就不行)

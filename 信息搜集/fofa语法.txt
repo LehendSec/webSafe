@@ -1,0 +1,130 @@
+intitle:商城
+inurl：shop.*.com
+inurl：mall.*.com
+site:.tw. inurl（访问国外网站）
+site:edu.cn intext:后台管理
+site:.tw 商城（访问台湾商城）
+site:.tw 后台
+site:.tw. 公司
+site:xxxx.com intext:管理 
+site:xxxx.com intitle:管理 
+inurl:edu.tw
+intitle:edu.America
+inurl:/admin/main.php
+inurl:/admin/main.html
+inurl edu.php id=
+inurl edu.pk php id=
+公司inurl php id
+对公网的语法：
+
+Index of /password
+
+Index of / passwd 
+
+"index?of/" xxx?(mp3、pdf)
+
+"Index of /" password.txt
+
+inurl:login
+
+inurl:php?id=1
+
+inurl:baidu.com
+
+inurl:phpMyAdmin
+
+inurl:ewebeditor
+
+intitle:后台管理
+
+intitle:后台管理 inurl:admin
+
+
+
+对限定域名的语法：
+
+site:xxxx.com
+
+site:xxxx.com intext:管理
+
+site:xxxx.com inurl:login
+
+site:xxxx.com intitle:管理
+
+site:xxxx.com intext:电话 //N个电话
+
+site:a2.xxxx.com inurl:file(load)//上传点等
+
+site:a2.xxxx.com intext:ftp://(地址、password等)
+
+site:xxxx.com filetype: txt (doc docx xls xlsx等)
+
+site:a2.xxxx.com filetype:asp(jsp php aspx等)//看看网站跑的什么脚本
+
+site:xxxx.com intext:*@xxxx.com //得到邮件地址，还有邮箱的主人信息之类的
+
+
+ intitle:商城
+inurl：shop.*.com
+inurl：mall.*.com
+site:.tw. inurl（访问国外网站）
+site:edu.cn intext:后台管理
+site:.tw 商城（访问台湾商城）
+site:.tw 后台
+site:.tw. 公司
+site:xxxx.com intext:管理 
+site:xxxx.com intitle:管理 
+inurl:edu.tw
+intitle:edu.America
+inurl:/admin/main.php
+inurl:/admin/main.html
+inurl edu.php id=
+inurl edu.pk php id=
+公司inurl php id
+对公网的语法：
+
+Index of /password
+
+Index of / passwd 
+
+"index?of/" xxx?(mp3、pdf)
+
+"Index of /" password.txt
+
+inurl:login
+
+inurl:php?id=1
+
+inurl:baidu.com
+
+inurl:phpMyAdmin
+
+inurl:ewebeditor
+
+intitle:后台管理
+
+intitle:后台管理 inurl:admin
+
+
+
+对限定域名的语法：
+
+site:xxxx.com
+
+site:xxxx.com intext:管理
+
+site:xxxx.com inurl:login
+
+site:xxxx.com intitle:管理
+
+site:xxxx.com intext:电话 //N个电话
+
+site:a2.xxxx.com inurl:file(load)//上传点等
+
+site:a2.xxxx.com intext:ftp://(地址、password等)
+
+site:xxxx.com filetype: txt (doc docx xls xlsx等)
+
+site:a2.xxxx.com filetype:asp(jsp php aspx等)//看看网站跑的什么脚本
+
+site:xxxx.com intext:*@xxxx.com //得到邮件地址，还有邮箱的主人信息之类的
